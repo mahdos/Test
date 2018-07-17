@@ -14,6 +14,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
      
         var x = 009
+        var xs = 009
+        var xa = 009
         // Do any additional setup after loading the view, typically from a nib.
     }
 
